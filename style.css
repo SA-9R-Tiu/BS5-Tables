@@ -1,0 +1,18 @@
+body {
+	background-color: #f0ebd8;
+	color: #3e5c76;
+}
+  
+ h1 {
+ 	text-align: center;
+ }
+
+.container {
+	background-color: #e3d5ca;
+	padding: 15px;
+}
+
+img {
+	height: 110px;
+	width: 110px;
+}
